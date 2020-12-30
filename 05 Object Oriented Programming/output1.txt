@@ -1,0 +1,9 @@
+Defult constructor
+Andy
+This is parameter constructor
+Android
+OVERWRITE the copy constructor
+Skinned Android
+Destructor called for: Asech OnePlus
+Destructor called for: OnePlus
+Destructor called for: 
